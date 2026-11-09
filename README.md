@@ -233,13 +233,13 @@ Follow EmbedX for more projects, tutorials, experiments and updates.
 
 <p align="center">
   <a href="YOUR_INSTAGRAM_LINK">
-    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+    <img src="https://www.instagram.com/p/DffPvSjhVNX/">
   </a>
   <a href="YOUR_X_LINK">
     <img src="https://img.shields.io/badge/X-Follow-black?style=for-the-badge&logo=x&logoColor=white">
   </a>
   <a href="YOUR_REDDIT_LINK">
-    <img src="https://img.shields.io/badge/Reddit-Join-FF4500?style=for-the-badge&logo=reddit&logoColor=white">
+    <img src="https://www.reddit.com/user/EmbedX/">
   </a>
   <a href="https://youtube.com/@embedx-1?si=PDrEQLf2UmA2KQzc">
     <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
